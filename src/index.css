@@ -1,10 +1,32 @@
+* {
+    font-family: "Fira Code Medium", serif;
+    cursor: default;
+}
+
+h1 {
+    border-width: 0.5rem;
+    border-style: outset;
+    padding: 1rem;
+    border-color: limegreen;
+    background-color: black;
+    color: limegreen;
+}
+
 li,
 a {
     color: #32cd32;
+    padding: 0.1rem;
+    margin: 0.1rem;
 }
 
-li:hover,
-a:hover {
+li:hover {
     font-weight: bold;
-    color: crimson;
+    color: deepskyblue;
+}
+
+a:hover {
+    border-width: 0.1rem;
+    border-style: solid;
+    border-color: crimson;
+    cursor: pointer;
 }
