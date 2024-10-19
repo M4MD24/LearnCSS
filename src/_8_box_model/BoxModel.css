@@ -1,0 +1,14 @@
+div {
+    border: 0.25rem solid red;
+    padding: 2rem;
+    margin: 2rem;
+    width: 30rem;
+    height: 10rem;
+}
+
+div p {
+    color: red;
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+}

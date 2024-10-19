@@ -1,0 +1,27 @@
+h1 {
+    color: #4CAF50; /* HEX method */
+}
+
+h2 {
+    color: #4CAF5050; /* HEX method with transparency */
+}
+
+h3 {
+    color: rgb(255, 99, 71); /* RGB method */
+}
+
+h4 {
+    color: rgba(255, 99, 71, 0.5); /* RGBA method with transparency */
+}
+
+h5 {
+    color: hsl(240, 100%, 50%); /* HSL method */
+}
+
+h6 {
+    color: hsl(240, 100%, 50%, 50%); /* HSL method with transparency */
+}
+
+p {
+    color: gold; /* Named color */
+}

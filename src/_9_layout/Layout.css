@@ -1,0 +1,51 @@
+body {
+    width: 200rem;
+    height: 150rem;
+}
+
+#mainMox {
+    border: 0.15rem solid black;
+    margin: 1rem auto;
+    width: 70rem;
+    height: 70rem;
+}
+
+#firstSubBox,
+#secondSubBox,
+#thirdSubBox,
+#fourSubBox,
+#fifthSubBox {
+    width: 10rem;
+    height: 10rem;
+}
+
+#firstSubBox {
+    background-color: gold;
+    position: static;
+}
+
+#secondSubBox {
+    background-color: crimson;
+    position: relative;
+}
+
+#thirdSubBox {
+    background-color: deepskyblue;
+    position: absolute;
+    top: 11.145rem;
+    left: 75.5rem;
+}
+
+#fourSubBox {
+    background-color: limegreen;
+    position: fixed;
+    top: 21.15rem;
+    left: 75.52rem;
+}
+
+#fifthSubBox {
+    background-color: deeppink;
+    position: sticky;
+    top: 21.15rem;
+    left: 65.52rem;
+}

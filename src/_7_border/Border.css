@@ -1,0 +1,11 @@
+p {
+    border: medium solid blue;
+    display: inline-block;
+    font-weight: bold;
+}
+
+p:hover {
+    border-style: groove;
+    border-color: orange deeppink powderblue gold;
+    border-radius: 1rem;
+}

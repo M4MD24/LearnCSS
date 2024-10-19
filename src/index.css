@@ -1,0 +1,10 @@
+li,
+a {
+    color: #32cd32;
+}
+
+li:hover,
+a:hover {
+    font-weight: bold;
+    color: crimson;
+}

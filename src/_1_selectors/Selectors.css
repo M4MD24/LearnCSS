@@ -1,0 +1,19 @@
+/*Universal Selector*/
+* {
+    color: #ff0000;
+}
+
+/*Element Selector*/
+h1 {
+    color: #fff000;
+}
+
+/*Class Selector*/
+.className {
+    color: #0000ff;
+}
+
+/*ID Selector*/
+#idName {
+    color: #32cd32;
+}
