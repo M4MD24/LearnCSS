@@ -4,18 +4,32 @@
     color: limegreen;
 }
 
+body {
+    background: black;
+    border: 0.5rem outset #32cd32;
+    border-radius: 0 1rem 0 1rem;;
+    padding: 1rem;
+}
+
 h1 {
     border-width: 0.5rem;
+    border-radius: 0 1rem 0 1rem;
     border-style: outset;
     padding: 1rem;
     border-color: limegreen;
 }
 
-h2, h3 {
+h2,
+h3 {
     padding: 0.5rem;
 }
 
-li, a {
+li {
+    list-style: "■ ";
+}
+
+li,
+a {
     color: #32cd32;
     padding: 0.1rem;
     margin: 0.1rem;
@@ -28,7 +42,13 @@ li:hover {
 
 a:hover {
     border-width: 0.1rem;
-    border-style: solid;
+    padding: 0.2rem;
+    border-style: outset;
     border-color: crimson;
     cursor: pointer;
+}
+
+
+hr {
+    border: 0.1rem solid #32cd32;
 }
