@@ -1,6 +1,7 @@
 * {
     font-family: "Fira Code Medium", serif;
     cursor: default;
+    color: limegreen;
 }
 
 h1 {
@@ -8,12 +9,13 @@ h1 {
     border-style: outset;
     padding: 1rem;
     border-color: limegreen;
-    background-color: black;
-    color: limegreen;
 }
 
-li,
-a {
+h2, h3 {
+    padding: 0.5rem;
+}
+
+li, a {
     color: #32cd32;
     padding: 0.1rem;
     margin: 0.1rem;
