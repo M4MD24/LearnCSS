@@ -31,23 +31,23 @@
 
 - <u style="text-decoration-color: #214ce5;">Learn Examples of Concepts</u><span style="color: #214ce5;">.</span>
 
-### 1. [<span style="color: #214ce5;">selectors</span>](src/_1_learn/_1_1_selectors)
+### 1. [<span style="color: #214ce5;">Selectors</span>](src/_1_learn/_1_1_selectors)
 
-### 2. [<span style="color: #214ce5;">colors</span>](src/_1_learn/_1_2_colors)
+### 2. [<span style="color: #214ce5;">Colors</span>](src/_1_learn/_1_2_colors)
 
-### 3. [<span style="color: #214ce5;">background</span>](src/_1_learn/_1_3_background)
+### 3. [<span style="color: #214ce5;">Background</span>](src/_1_learn/_1_3_background)
 
-### 4. [<span style="color: #214ce5;">comment</span>](src/_1_learn/_1_4_comment)
+### 4. [<span style="color: #214ce5;">Comment</span>](src/_1_learn/_1_4_comment)
 
-### 5. [<span style="color: #214ce5;">font</span>](src/_1_learn/_1_5_font)
+### 5. [<span style="color: #214ce5;">Font</span>](src/_1_learn/_1_5_font)
 
-### 6. [<span style="color: #214ce5;">interaction</span>](src/_1_learn/_1_6_interaction)
+### 6. [<span style="color: #214ce5;">Interaction</span>](src/_1_learn/_1_6_interaction)
 
-### 7. [<span style="color: #214ce5;">border</span>](src/_1_learn/_1_7_border)
+### 7. [<span style="color: #214ce5;">Border</span>](src/_1_learn/_1_7_border)
 
-### 8. [<span style="color: #214ce5;">box_model</span>](src/_1_learn/_1_8_box_model)
+### 8. [<span style="color: #214ce5;">Box Model</span>](src/_1_learn/_1_8_box_model)
 
-### 9. [<span style="color: #214ce5;">layout</span>](src/_1_learn/_1_9_layout)
+### 9. [<span style="color: #214ce5;">Layout</span>](src/_1_learn/_1_9_layout)
 
 ### 10. [<span style="color: #214ce5;">Outline and Citation</span>](src/_1_learn/_1_10_outline_and_citation)
 
