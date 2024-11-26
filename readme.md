@@ -43,6 +43,8 @@
 
 ### 6. [<span style="color: #214ce5;">Interaction</span>](src/_1_learn/_1_6_interaction)
 
+1. Hover
+
 ### 7. [<span style="color: #214ce5;">Border</span>](src/_1_learn/_1_7_border)
 
 ### 8. [<span style="color: #214ce5;">Box Model</span>](src/_1_learn/_1_8_box_model)
